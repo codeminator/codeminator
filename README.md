@@ -15,7 +15,10 @@ My main passion is about Ruby, side from that my wish list includes other things
 - And of course .. over here :)
 
 ##### It's not all about work, I have some hobbies as well:
-:book: :musical_keyboard: :tennis: :soccer:
+- :book:
+- :musical_keyboard:
+- :tennis:
+- :soccer:
 
 <!--
 **codeminator/codeminator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

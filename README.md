@@ -3,9 +3,7 @@
 I am a Software engineer, big fan of open source technologies, always eager to learn about new trends.
 
 My main passion is about Ruby, side from that my wish list includes other things, such as:
-- Python
-- GoLang.
-- Elixir.
+- New programming languages (Object oriented/Functional).
 - Enhancing my Devops skills.
 - Enhancing my frontend development skills.
 
